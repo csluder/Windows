@@ -1,0 +1,10 @@
+C:\Users\csluder\Documents\Visual Studio 2010\Projects\bus pirate\bus pirate\bin\Debug\bus pirate.exe
+C:\Users\csluder\Documents\Visual Studio 2010\Projects\bus pirate\bus pirate\bin\Debug\bus pirate.pdb
+C:\Users\csluder\Documents\Visual Studio 2010\Projects\bus pirate\bus pirate\obj\x86\Debug\bus_pirate.busPirate.resources
+C:\Users\csluder\Documents\Visual Studio 2010\Projects\bus pirate\bus pirate\obj\x86\Debug\bus_pirate.Properties.Resources.resources
+C:\Users\csluder\Documents\Visual Studio 2010\Projects\bus pirate\bus pirate\obj\x86\Debug\bus pirate.csproj.GenerateResource.Cache
+C:\Users\csluder\Documents\Visual Studio 2010\Projects\bus pirate\bus pirate\obj\x86\Debug\bus pirate.exe
+C:\Users\csluder\Documents\Visual Studio 2010\Projects\bus pirate\bus pirate\obj\x86\Debug\bus pirate.pdb
+C:\Users\csluder\Documents\Visual Studio 2010\Projects\bus pirate\bus pirate\obj\x86\Debug\bus pirate.csprojResolveAssemblyReference.cache
+D:\Users\csluder\Documents\Visual Studio 2010\Projects\bus pirate\bus pirate\obj\x86\Debug\bus pirate.exe
+D:\Users\csluder\Documents\Visual Studio 2010\Projects\bus pirate\bus pirate\obj\x86\Debug\bus pirate.pdb
