@@ -1,0 +1,2 @@
+C:\Users\csluder\Documents\Visual Studio 2010\Projects\Port Scanner\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\csluder\Documents\Visual Studio 2010\Projects\Port Scanner\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
